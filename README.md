@@ -4,9 +4,7 @@ Tras graduarme en Geografía e Historia decidí dar un giro a mi vida profesiona
 informática y finalmente a finales del año 2022 abandoné mi trabajo para matricularme en un Grado Superior de Desarrollo de Aplicaciones Multiplataforma.
 
 Puedes localizarme en estos sitios 👀:
-- <a href="https://www.facebook.com/DanielBlancoW">Facebook</a>
 - <a href="https://twitter.com/DanielBlancoW">Twitter</a>
-- <a href="https://danielblancow.tumblr.com/">Tumblr</a>
 
 
 
