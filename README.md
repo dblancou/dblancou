@@ -3,8 +3,6 @@
 
 After graduating in Geography and History, I decided to make a significant shift in my professional life. I started studying programming and IT-related courses remotely and, by the end of 2022, left my previous job to enroll in a Higher Technical Degree in Cross-Platform Application Development.
 
----
-
 - 🔭 I’m currently working on **as a Developer, creating screens for a mobile application using Dart and Flutter.**
 
 - 🌱 I’m currently taking **a Flutter course to strengthen my mobile development skills and have started the Full Stack Open course to expand my knowledge of modern web development.**
