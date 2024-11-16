@@ -5,7 +5,7 @@ After graduating in Geography and History, I decided to make a significant shift
 
 ---
 
-- 🔭 I’m currently working on **as a Junior Developer, creating screens for a mobile application using Dart and Flutter.**
+- 🔭 I’m currently working on **as a Developer, creating screens for a mobile application using Dart and Flutter.**
 
 - 🌱 I’m currently taking **a Flutter course to strengthen my mobile development skills and have started the Full Stack Open course to expand my knowledge of modern web development.**
 
